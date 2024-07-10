@@ -24,4 +24,5 @@ This is a simple audio player app built using Flutter and the `audioplayers` pac
    
 2. Some instances from the app are as follows:
 
-  
+   <img src="path/to/player_screen.png" alt="Player Screen" width="300"/>
+   <img src="path/to/player_screen.png" alt="Player Screen" width="300"/>
