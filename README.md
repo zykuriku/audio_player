@@ -1,16 +1,27 @@
-# audio_player
+# Audio Player App
 
-A new Flutter project.
+This is a simple audio player app built using Flutter and the `audioplayers` package. The app lists songs stored in the `assets` folder and allows users to play, pause, and stop the audio. The app demonstrates basic usage of Flutter for UI and the `audioplayers` package for audio functionality.
+
+## Features
+
+- List songs from the `assets` folder.
+- Play, pause, and stop audio.
+- Navigate between song list and player screen.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/zykuriku/audio_player.git
+   
+2. Some instances from the app are as follows:
+
+  
