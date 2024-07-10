@@ -24,5 +24,6 @@ This is a simple audio player app built using Flutter and the `audioplayers` pac
    
 2. Some instances from the app are as follows:
 
-   <img src="path/to/player_screen.png" alt="Player Screen" width="300"/>
-   <img src="path/to/player_screen.png" alt="Player Screen" width="300"/>
+   <img src="assets/Simulator Screenshot - iPhone 15 Pro Max - 2024-07-10 at 15.48.40.png" alt="Player Screen" width="250" height="550"/>
+   <img src="assets/Simulator Screenshot - iPhone 15 Pro Max - 2024-07-10 at 15.48.57.png" alt="Player Screen" width="250" height="550"/>
+<img src="assets/Simulator Screenshot - iPhone 15 Pro Max - 2024-07-10 at 15.49.19.png" alt="Player Screen" width="250" height="550"/>
